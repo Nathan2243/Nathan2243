@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Teixeira Rizzatte</h1>
-<h3 align="center">Currently, I am a student of Systems Analysis and Development at PUC Minas. I have knowledge and experience in .NET Core and ASP.NET MVC, as well as a solid understanding of Entity Framework. I have practical experience with both relational and non-relational databases, including SQL Server and MongoDB. Currently, I am working with Java and utilizing frameworks such as Micronaut, also applying concepts of reactive programming and design patterns like Backend for Frontend (BFF).</h3>
+<h3 align="center">Currently, I am a student of Systems Analysis and Development at PUC Minas. I have knowledge and experience in .NET Core and ASP.NET MVC, as well as a solid understanding of Entity Framework. I have practical experience with both relational and non-relational databases, including SQL Server and MongoDB. Currently, I am working with Java and utilizing frameworks such as Micronaut and Spring, also applying concepts of reactive programming and design patterns like Backend for Frontend (BFF).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan2243&label=Profile%20views&color=0e75b6&style=flat" alt="nathan2243" /> </p>
 
